@@ -1,5 +1,8 @@
 import re
 
+# Fecha: 2026-10-08
+# Daniel Landero Arias - 23020770
+# Lenguajes y Automatas 1 - Intituto Tecnologico de Veracruz
 def main():
     ejercicio_1()
 
